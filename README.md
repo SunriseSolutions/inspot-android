@@ -1,0 +1,1 @@
+# inspot-android
